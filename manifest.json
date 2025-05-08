@@ -1,0 +1,10 @@
+{
+  "version": "v1.0.0",
+  "notes": "Initial release",
+  "platforms": {
+    "linux-amd64": {
+      "url": "https://cryptolabinc.github.io/codeheaan-gpu-run/releases/v1.0.0/gpu-run-v1.0.0-linux-amd64",
+      "checksum": "433df0548f9bcf0f624e91841ea154cc7f3ac00e679b951c6593d4a9e8769597"
+    }
+  }
+}
